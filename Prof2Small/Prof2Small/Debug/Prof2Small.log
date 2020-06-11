@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\prof2small\prof2small\source.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Prof2Small.vcxproj -> C:\Users\jonesgid000\documents\visual studio 2017\Projects\Prof2Small\Debug\Prof2Small.exe
+  Prof2Small.vcxproj -> C:\Users\jonesgid000\documents\visual studio 2017\Projects\Prof2Small\Debug\Prof2Small.pdb (Partial PDB)
